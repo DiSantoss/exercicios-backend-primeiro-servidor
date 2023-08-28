@@ -11,5 +11,5 @@ app.get('/remover' , jogadores.remover)
 app.get('/adicionar' , jogadores.adicionar)
 
 
-app.listen(8000)
+// app.listen(8000)
 
